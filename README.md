@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤟 SINGNIFY
+# 🤟 SIGNIFY
 
 ### AI-Powered Sign Language Translation System
 
@@ -26,7 +26,7 @@
 
 ## Overview
 
-**SINGNIFY** is an AI-powered sign language translation system designed to reduce communication barriers between sign-language users and non-sign-language speakers.
+**SIGNIFY** is an AI-powered sign language translation system designed to reduce communication barriers between sign-language users and non-sign-language speakers.
 
 The project combines a **Python-based Artificial Intelligence and Computer Vision pipeline** with a **cross-platform Flutter mobile application** to process sign-language gestures and transform them into accessible digital output.
 
